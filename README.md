@@ -1,6 +1,6 @@
 ### Hi there and welcome 👋
 
-Here you can find some Examples/Starters that get (at least) yearly updates.
+Here you can find some Examples/Starters/Boilerplates that get (at least) yearly updates.
 <!-- Here you can read about the concept for the starters:  -->
 
 **Top Repos:**
