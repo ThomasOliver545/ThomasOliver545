@@ -59,15 +59,15 @@ On my Youtube Channel you can find some videos to the Projects/repos:
 Check out all repos: https://github.com/ThomasOliver545?tab=repositories  
 
 Support via 
-- "Github Sponsor"
-- "Github Follow"
-- "Youtube Follow"   
+  - "Github Sponsor"
+  - "Github Follow"
+  - "Youtube Follow"   
 etc. would be great.
 
 If you have any feedback you can provide it on github or on my other channels:  
-Link to Github Profile: https://github.com/ThomasOliver545  
-Link to Youtube Channel: https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw  
-Link to Twitter: https://twitter.com/Thomas_OliverK  
+  - Link to Github Profile: https://github.com/ThomasOliver545  
+  - Link to Youtube Channel: https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw  
+  - Link to Twitter: https://twitter.com/Thomas_OliverK  
   
 Tom
 
