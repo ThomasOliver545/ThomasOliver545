@@ -1,11 +1,11 @@
-### Hi there and welcome 👋
+## Hi there and welcome 👋
 
 Here you can find some Examples/Starters/Boilerplates that get (at least) yearly updates.
 <!-- Here you can read about the concept for the starters:  -->
 
-**Top Repos:**
+### Top Repos:
 
-NestJS:  
+**NestJS:**
 <!-- Blog-with-NestJS-and-Angular  -->
 <a href="https://github.com/ThomasOliver545/Blog-with-NestJS-and-Angular">
   <img 
@@ -34,10 +34,10 @@ NestJS:
       src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-auth-jwt&theme=dracula" alt="ThomasOliver545 Repo NestJS Auth Jwt">
 </a>
 
-Spring Boot:  
+**Spring Boot:**  
   - tbd
   
-Angular:  
+**Angular:**    
 <!-- https://github.com/ThomasOliver545/angular-material-sidenav-expandable  -->
 <a href="https://github.com/ThomasOliver545/angular-material-sidenav-expandable">
   <img 
