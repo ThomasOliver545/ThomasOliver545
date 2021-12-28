@@ -66,8 +66,8 @@ etc. would be great.
 
 If you have any feedback you can provide it on github or on my other channels:  
   - <a href="https://github.com/ThomasOliver545">Link to Github Profile</a> 
-  - Link to Youtube Channel: https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw  
-  - Link to Twitter: https://twitter.com/Thomas_OliverK  
+  - <a href="https://www.youtube.com/channel/UCTZMwW4pq_B-o_KkpCtotGw">Link to Youtube Channel</a>  
+  - <a href="https://twitter.com/Thomas_OliverK">Link to Twitter</a>  
   
 Tom
 
