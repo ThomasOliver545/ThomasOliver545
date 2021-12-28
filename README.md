@@ -1,4 +1,4 @@
-## Hi there and welcome 👋
+## 👋 Hi there and welcome 👋
 
 Here you can find some Examples/Starters/Boilerplates that get (at least) yearly updates.  
 On my Youtube Channel you can find some videos to the Projects/repos:  
