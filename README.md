@@ -44,6 +44,14 @@ On my Youtube Channel you can find some videos to the Projects/repos:
       src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-auth-jwt&theme=dracula" alt="ThomasOliver545 Repo NestJS Auth Jwt">
 </a>
 
+<!-- https://github.com/ThomasOliver545/nestjs-local-development-docker-compose-hot-reload -->
+<a href="https://github.com/ThomasOliver545/nestjs-local-development-docker-compose-hot-reload">
+  <img 
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-local-development-docker-compose-hot-reload&theme=dracula" alt="ThomasOliver545 Repo NestJS Local Development docker compose hot reload">
+</a>
+
+
 #### Top Repos Spring Boot:    
   - tbd
   
