@@ -61,5 +61,5 @@ Link to Twitter: https://twitter.com/Thomas_OliverK
   
 Tom
 
-PS: Since I am doing this in my freetime, there might be needed enhancements/refactorings, bugs and so on -  i am happy about every given feedback, opened issue and openend pull request.
+:v: PS: Since I am doing this in my freetime, there might be needed enhancements/refactorings, bugs and so on -  i am happy about every given feedback, opened issue and openend pull request. :v:
 
