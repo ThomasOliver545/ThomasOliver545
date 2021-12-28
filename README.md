@@ -43,6 +43,7 @@ Angular:
       src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-sidenav-expandable&theme=dracula" alt="ThomasOliver545 Repo Angular Material Sidenav Example">
 </a>
   
+  
 Check out all repos: https://github.com/ThomasOliver545?tab=repositories  
 
 Support via 
