@@ -15,9 +15,7 @@ On my Youtube Channel you can find some videos to the Projects/repos:
   
 <!-- Here you can read about the concept for the starters:  -->
 
-### Top Repos:
-
-**NestJS:**
+#### Top Repos NestJS:
 <!-- Blog-with-NestJS-and-Angular  -->
 <a href="https://github.com/ThomasOliver545/Blog-with-NestJS-and-Angular">
   <img 
@@ -46,10 +44,10 @@ On my Youtube Channel you can find some videos to the Projects/repos:
       src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-auth-jwt&theme=dracula" alt="ThomasOliver545 Repo NestJS Auth Jwt">
 </a>
 
-**Spring Boot:**  
+#### Top Repos Spring Boot:    
   - tbd
   
-**Angular:**    
+#### Top Repos Angular:      
 <!-- https://github.com/ThomasOliver545/angular-material-sidenav-expandable  -->
 <a href="https://github.com/ThomasOliver545/angular-material-sidenav-expandable">
   <img 
