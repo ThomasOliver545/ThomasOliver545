@@ -62,7 +62,13 @@ On my Youtube Channel you can find some videos to the Projects/repos:
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-sidenav-expandable&theme=dracula" alt="ThomasOliver545 Repo Angular Material Sidenav Example">
 </a>
-  
+
+<!-- https://github.com/ThomasOliver545/angular-material-login-and-register-example -->
+<a href="https://github.com/ThomasOliver545/angular-material-login-and-register-example">
+  <img 
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-login-and-register-example&theme=dracula" alt="ThomasOliver545 Repo Angular Material Login and Register Example">
+</a>  
   
 <a href="https://github.com/ThomasOliver545?tab=repositories">Check out all repos</a>  
 
