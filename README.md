@@ -51,6 +51,12 @@ On my Youtube Channel you can find some videos to the Projects/repos:
       src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-local-development-docker-compose-hot-reload&theme=dracula" alt="ThomasOliver545 Repo NestJS Local Development docker compose hot reload">
 </a>
 
+<!-- https://github.com/ThomasOliver545/ealtime-todo-task-management-app-nestjs-and-angular -->
+<a href="https://github.com/ThomasOliver545/ealtime-todo-task-management-app-nestjs-and-angular">
+  <img 
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=ealtime-todo-task-management-app-nestjs-and-angular&theme=dracula" alt="ThomasOliver545 Repo NestJS Angular ToDo Kanban App Realtime with Websockets">
+</a>
 
 #### Top Repos Spring Boot:    
 <!-- https://github.com/ThomasOliver545/spring-boot-teams-user-management-service-with-angular-frontend  -->
