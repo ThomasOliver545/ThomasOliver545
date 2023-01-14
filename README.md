@@ -20,42 +20,42 @@ On my Youtube Channel you can find some videos to the Projects/repos:
 <a href="https://github.com/ThomasOliver545/Blog-with-NestJS-and-Angular">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=Blog-with-NestJS-and-Angular&theme=dracula" alt="ThomasOliver545 Repo Blog with NestJS and Angular">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=Blog-with-NestJS-and-Angular&theme=dracula" alt="ThomasOliver545 Repo Blog with NestJS and Angular">
 </a>
 
 <!-- https://github.com/ThomasOliver545/real-time-chat-nestjs-angular  -->
 <a href="https://github.com/ThomasOliver545/real-time-chat-nestjs-angular">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=real-time-chat-nestjs-angular&theme=dracula" alt="ThomasOliver545 Repo Realtime Chat with NestJS and Angular">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=real-time-chat-nestjs-angular&theme=dracula" alt="ThomasOliver545 Repo Realtime Chat with NestJS and Angular">
 </a>
 
 <!-- https://github.com/ThomasOliver545/nestjs-dockerized  -->
 <a href="https://github.com/ThomasOliver545/nestjs-dockerized">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-dockerized&theme=dracula" alt="ThomasOliver545 Repo NestJS dockerized">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-dockerized&theme=dracula" alt="ThomasOliver545 Repo NestJS dockerized">
 </a>
  
 <!--  https://github.com/ThomasOliver545/nestjs-auth-jwt   -->
 <a href="https://github.com/ThomasOliver545/nestjs-auth-jwt">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-auth-jwt&theme=dracula" alt="ThomasOliver545 Repo NestJS Auth Jwt">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-auth-jwt&theme=dracula" alt="ThomasOliver545 Repo NestJS Auth Jwt">
 </a>
 
 <!-- https://github.com/ThomasOliver545/nestjs-local-development-docker-compose-hot-reload -->
 <a href="https://github.com/ThomasOliver545/nestjs-local-development-docker-compose-hot-reload">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-local-development-docker-compose-hot-reload&theme=dracula" alt="ThomasOliver545 Repo NestJS Local Development docker compose hot reload">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=nestjs-local-development-docker-compose-hot-reload&theme=dracula" alt="ThomasOliver545 Repo NestJS Local Development docker compose hot reload">
 </a>
 
 <!-- https://github.com/ThomasOliver545/realtime-todo-task-management-app-nestjs-and-angular -->
 <a href="https://github.com/ThomasOliver545/realtime-todo-task-management-app-nestjs-and-angular">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=realtime-todo-task-management-app-nestjs-and-angular&theme=dracula" alt="ThomasOliver545 Repo NestJS Angular ToDo Kanban App Realtime with Websockets">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=realtime-todo-task-management-app-nestjs-and-angular&theme=dracula" alt="ThomasOliver545 Repo NestJS Angular ToDo Kanban App Realtime with Websockets">
 </a>
 
 #### Top Repos Spring Boot:    
@@ -63,7 +63,7 @@ On my Youtube Channel you can find some videos to the Projects/repos:
 <a href="https://github.com/ThomasOliver545/spring-boot-teams-user-management-service-with-angular-frontend">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=spring-boot-teams-user-management-service-with-angular-frontend&theme=dracula" alt="ThomasOliver545 Repo Spring Angular User Management Service">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=spring-boot-teams-user-management-service-with-angular-frontend&theme=dracula" alt="ThomasOliver545 Repo Spring Angular User Management Service">
 </a>
   
 #### Top Repos Angular:      
@@ -71,14 +71,14 @@ On my Youtube Channel you can find some videos to the Projects/repos:
 <a href="https://github.com/ThomasOliver545/angular-material-sidenav-expandable">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-sidenav-expandable&theme=dracula" alt="ThomasOliver545 Repo Angular Material Sidenav Example">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-sidenav-expandable&theme=dracula" alt="ThomasOliver545 Repo Angular Material Sidenav Example">
 </a>
 
 <!-- https://github.com/ThomasOliver545/angular-material-login-and-register-example -->
 <a href="https://github.com/ThomasOliver545/angular-material-login-and-register-example">
   <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-login-and-register-example&theme=dracula" alt="ThomasOliver545 Repo Angular Material Login and Register Example">
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ThomasOliver545&repo=angular-material-login-and-register-example&theme=dracula" alt="ThomasOliver545 Repo Angular Material Login and Register Example">
 </a>  
   
 <a href="https://github.com/ThomasOliver545?tab=repositories">Check out all repos</a>  
